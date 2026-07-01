@@ -1,7 +1,11 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hey world");
+
+        System.out.print("Java ");
+        System.out.print("is ");
+        System.out.print("Awesome!");
+
     }
 
 }
