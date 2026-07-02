@@ -2,10 +2,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.print("Java ");
-        System.out.print("is ");
-        System.out.print("Awesome!");
-
+        System.out.println("fuckoff world");
+        int a = 1000 ;
+        int b = 1000 ;
+        System.out.println(a + b);
+        System.out.println("times");
     }
 
 }
