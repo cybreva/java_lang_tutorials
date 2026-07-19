@@ -1,4 +1,4 @@
-package java_basics;
+
 public class loops {
     public static void main(String[] args){
 
