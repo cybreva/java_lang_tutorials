@@ -1,7 +1,4 @@
 import java.util.Scanner ;
-
-import project1.Student;
-
 class Student {
 
     String name;
