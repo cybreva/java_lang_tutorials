@@ -25,5 +25,8 @@ bin/
 # Windows
 Thumbs.db
 
-# binaries 
-.class
+# Java compiled files
+*.class
+
+#extrassss
+notes 
